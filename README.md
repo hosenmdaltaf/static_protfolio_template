@@ -1,2 +1,2 @@
-# my-present-protfolio
-personal use only
+Simple -protfolio design with html,css and javascript 
+
